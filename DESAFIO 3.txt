@@ -1,0 +1,4 @@
+// Desafio 3 [TESTE TECNICO GFT]
+// Arthur Areias Mariano
+Estou fazendo um sistema de cadastro em java e salvo as senhas direto no banco, sem criptografia nem nada. Sei que não é seguro, mas não sei exatamente o porquê. pode me explicar por que é perigoso fazer assim e me dar umas dicas de como proteger melhor as senhas? analíse meu código e me diga 3 tipos de possíveis melhorias que eu posso fazer nessa questão!
+// Enviaria o codigo
